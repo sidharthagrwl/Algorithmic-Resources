@@ -19,7 +19,7 @@ Topics
  - [Segment Trees](#segment-trees)
  - [Trees](#trees)
 
-## Arrays
+## 1d and 2d arrays - 
 ---
  - Questions
 
